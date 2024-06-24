@@ -1,0 +1,5 @@
+.env
+tmp
+# Ignore built file
+ggscan 
+.cache_ggshield
